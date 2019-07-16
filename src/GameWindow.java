@@ -1,5 +1,3 @@
-package ru.geekbrains;
-
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
